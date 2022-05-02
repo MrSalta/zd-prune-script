@@ -15,3 +15,6 @@ A script using jq to prune and redact Zendesk exports
 
 ## EXECUTE!
 * Run the script from the same directory as the json files
+
+## Special Thanks
+Thanks to user [Philippe in StackOverflow](https://stackoverflow.com/questions/72065049/jq-filtering-a-massive-json-with-nested-arrays-efficiently) for guiding the way to getting the `custom_fields` into the finished file. 
